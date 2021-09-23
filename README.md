@@ -1,4 +1,4 @@
-### Hi there my nae is Gabriel Sales 👋
+### Hi there my name is Gabriel Sales 👋
 
 - ⚡ I'm an electrical engineering.
 - 🔭 I’m currently working on Hardware development.
